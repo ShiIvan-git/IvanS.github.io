@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | </title>
-    <link>https://github.com/ShiIvan-git/IvanS.github.io/blog/</link>
-      <atom:link href="https://github.com/ShiIvan-git/IvanS.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ShiIvan-git.github.io/blog/</link>
+      <atom:link href="https://ShiIvan-git.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://github.com/ShiIvan-git/IvanS.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>https://ShiIvan-git.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Blog</title>
-      <link>https://github.com/ShiIvan-git/IvanS.github.io/blog/</link>
+      <link>https://ShiIvan-git.github.io/blog/</link>
     </image>
     
   </channel>
