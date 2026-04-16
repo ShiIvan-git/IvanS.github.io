@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://github.com/ShiIvan-git/IvanS.github.io/sitemap.xml
