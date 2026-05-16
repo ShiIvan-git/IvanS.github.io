@@ -13,16 +13,6 @@
     </image>
     
     <item>
-      <title>Ши Иван Юанович</title>
-      <link>https://ShiIvan-git.github.io/</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://ShiIvan-git.github.io/</guid>
-      <description>&lt;h2 id=&#34;биография&#34;&gt;Биография&lt;/h2&gt;
-&lt;p&gt;Я студент направления &amp;ldquo;Прикладная информатика&amp;rdquo; в РУДН. Увлекаюсь программированием, играю в баскетбол.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>An example preprint / working paper</title>
       <link>https://ShiIvan-git.github.io/publications/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
@@ -79,6 +69,16 @@
 
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
 .&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ши Иван Юанович</title>
+      <link>https://ShiIvan-git.github.io/authors/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://ShiIvan-git.github.io/authors/</guid>
+      <description>&lt;h2 id=&#34;биография&#34;&gt;Биография&lt;/h2&gt;
+&lt;p&gt;Я студент направления &amp;ldquo;Прикладная информатика&amp;rdquo; в РУДН. Увлекаюсь программированием, играю в баскетбол.&lt;/p&gt;
 </description>
     </item>
     
