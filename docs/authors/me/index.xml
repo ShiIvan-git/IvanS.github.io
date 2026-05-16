@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ши Иван Юанович | </title>
+    <title>Me | </title>
     <link>https://ShiIvan-git.github.io/authors/me/</link>
       <atom:link href="https://ShiIvan-git.github.io/authors/me/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ши Иван Юанович</description>
+    <description>Me</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ShiIvan-git.github.io/media/authors/me_hu_2609361549294829.png</url>
-      <title>Ши Иван Юанович</title>
+      <title>Me</title>
       <link>https://ShiIvan-git.github.io/authors/me/</link>
     </image>
     
