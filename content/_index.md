@@ -55,8 +55,8 @@ sections:
       title: '🎓 Сертификаты'
       subtitle: ''
       text: |-
-        <a href="/uploads/certificate.jpg" target="_blank">
-          <img src="/uploads/certificate.jpg" alt="Сертификат Selectel: Системный администратор Linux с нуля" style="max-width: 420px; width: 100%; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 12px rgba(0,0,0,.2);" />
+        <a href="uploads/certificate.jpg" target="_blank">
+          <img src="uploads/certificate.jpg" alt="Сертификат Selectel: Системный администратор Linux с нуля" style="max-width: 420px; width: 100%; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 12px rgba(0,0,0,.2);" />
         </a>
 
         Selectel — «Системный администратор Linux с нуля», ноябрь 2026
